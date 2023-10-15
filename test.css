@@ -1,0 +1,91 @@
+body{
+  height: 100%;
+  width: 100%;
+  background-image: url(body.jpg);
+  background-size: cover;
+}
+
+.quadratoprincipale{
+  width: 1200px;
+  height: 850px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 5px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+img{
+  width: 250px;
+  height: 125px;
+  margin-left: 37%;
+  margin-top: 5%;
+}
+
+h1{
+  display: inline-block;
+  margin-left: 30%;
+  color: rgb(10, 200, 10);
+  line-height: 0px;
+}
+
+.opzioni{
+  margin-left: 10%;
+  padding: 1%;
+  width: 75%;
+  background-color: rgb(10, 200, 10);
+  display: inline-block;
+  border: 15px;
+}
+
+.pulsanti{
+  margin-left: 35%;
+}
+
+.monopattini{
+  margin-left: 10%;
+  display: inline-block;
+  margin-top: 3%;
+  width: 70%;
+}
+
+.titoli{
+  font-size: 25px;
+  color: white;
+}
+
+.sottoscrizioni{
+  font-size: 20px;
+  color: white;
+}
+
+#caricaGino{
+  width: 40%;
+  margin-left: 0%;
+  height: 25px;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+#caricaMike{
+  width: 65%;
+  margin-left: 0%;
+  height: 25px;
+  background-color: rgb(15, 200, 15);
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+#caricaFede{
+  width: 20%;
+  margin-left: 0%;
+  height: 25px;
+  background-color: rgb(255, 10, 10);
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 5px;
+}
